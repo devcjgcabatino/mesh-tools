@@ -5,7 +5,7 @@ One‑liner to install **all tools** with dependencies:
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/devcjgcabatino/mesh-tools/main/mesh-tools-installer.sh) --with-deps
 
-
+```
 
 ## Included Tools
 
@@ -38,6 +38,6 @@ syswatch
 backup ~/projects/myapp
 syncdir ~/projects user@server:/srv/projects
 pushit notes.txt
-
+```
 ## License
 MIT License — do whatever you like
